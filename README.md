@@ -36,7 +36,7 @@ A user-friendly **Java Swing GUI Calculator** that supports basic arithmetic and
 
 ### 🔧 Installation & Execution
 
-#### Option 1: Using Terminal
+#Option 1: Using Terminal
 
 ```bash
 git clone https://github.com/your-username/gui-calculator-java.git
