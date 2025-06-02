@@ -4,14 +4,6 @@ A user-friendly **Java Swing GUI Calculator** that supports basic arithmetic and
 
 ---
 
-## 📸 Preview
-
-> Upload a screenshot of the calculator and update this section:
-
-![Calculator Screenshot](https://via.placeholder.com/400x500.png?text=Calculator+GUI)
-
----
-
 ## 🚀 Features
 
 - ✅ Basic Arithmetic: Addition, Subtraction, Multiplication, Division
@@ -59,7 +51,9 @@ Option 2: Using Eclipse
 3.Paste the Java code into the file.
 4.Click Run.
 
-### 🔢 GUI Layout
+---
+
+## 🔢 GUI Layout
 7   8   9   /
 4   5   6   *
 1   2   3   -
@@ -67,11 +61,15 @@ Option 2: Using Eclipse
 x²  √   1/x AC
 Each button performs the operation it displays. The layout mirrors standard scientific calculators.
 
+---
+
 ## 📁 Folder Structure
 
 gui-calculator-java/
 ├── GuiCalculator.java   # Main calculator logic using Swing
 └── README.md            # Project instructions and documentation
+
+---
 
 ## 🌟 Contribute
 
