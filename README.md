@@ -53,7 +53,7 @@ Option 2: Using Eclipse
 
 ---
 
-## 🔢 GUI Layout
+**🔢 GUI Layout** 
 7   8   9   /
 4   5   6   *
 1   2   3   -
@@ -63,7 +63,7 @@ Each button performs the operation it displays. The layout mirrors standard scie
 
 ---
 
-## 📁 Folder Structure
+**📁 Folder Structure** 
 
 gui-calculator-java/
 ├── GuiCalculator.java   # Main calculator logic using Swing
@@ -71,7 +71,7 @@ gui-calculator-java/
 
 ---
 
-## 🌟 Contribute
+**🌟 Contribute** 
 
 Found a bug or want to add new features? Feel free to fork the repo and submit a pull request!
 If you like the project, don't forget to ⭐ star it.
