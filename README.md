@@ -67,13 +67,13 @@ Option 2: Using Eclipse
 x²  √   1/x AC
 Each button performs the operation it displays. The layout mirrors standard scientific calculators.
 
-### 📁 Folder Structure
+## 📁 Folder Structure
 
 gui-calculator-java/
 ├── GuiCalculator.java   # Main calculator logic using Swing
 └── README.md            # Project instructions and documentation
 
-### 🌟 Contribute
+## 🌟 Contribute
 
 Found a bug or want to add new features? Feel free to fork the repo and submit a pull request!
 If you like the project, don't forget to ⭐ star it.
