@@ -36,7 +36,7 @@ A user-friendly **Java Swing GUI Calculator** that supports basic arithmetic and
 
 ### 🔧 Installation & Execution
 
-#Option 1: Using Terminal
+#### ✅ Option 1: Using Terminal
 
 ```bash
 git clone https://github.com/your-username/gui-calculator-java.git
@@ -44,34 +44,27 @@ cd gui-calculator-java
 javac GuiCalculator.java
 java GuiCalculator
 
-Option 2: Using Eclipse
+#### ✅ Option 2: Using Eclipse
 
-1.Open Eclipse and create a new Java Project.
-2.Inside src, create a new GuiCalculator class.
-3.Paste the Java code into the file.
-4.Click Run.
+1.Open Eclipse and create a new Java Project
+2.Inside the src folder, create a new class named GuiCalculator
+3.Paste the Java code into the class
+4.Click Run to execute the calculator
 
----
+##🔢 GUI Layout
 
-**🔢 GUI Layout** 
 7   8   9   /
 4   5   6   *
 1   2   3   -
 0   .   =   +
 x²  √   1/x AC
-Each button performs the operation it displays. The layout mirrors standard scientific calculators.
 
----
 
-**📁 Folder Structure** 
-
-gui-calculator-java/
-├── GuiCalculator.java   # Main calculator logic using Swing
-└── README.md            # Project instructions and documentation
-
----
-
-**🌟 Contribute** 
+##🌟 Contribute
 
 Found a bug or want to add new features? Feel free to fork the repo and submit a pull request!
-If you like the project, don't forget to ⭐ star it.
+If you like the project, don’t forget to ⭐ star it!
+
+
+
+
